@@ -2,7 +2,7 @@
 #### USC-Id: 5483611649
 ##### Github username: ambirlanga
 
-In this repository you will find the results of dsci552 project, more specifically, all exercise results and step-by-step explanation are found in "notebook/Martinez_Ariel_Final_Project.ipynb".
+In this repository you will find the results of dsci552 project, more specifically, all exercise results and step-by-step explanation are found in "notebook/martinez-ariel-final-project.ipynb".
 
 Make sure the 'notebook' and 'data' folders are located in the same repository while execting the Jupyter Notebook; this is needed for the notebook to access the dataset.
 
