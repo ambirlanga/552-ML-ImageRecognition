@@ -1,4 +1,4 @@
-# Ariel Martinez Birlanga - HW7
+# Ariel Martinez Birlanga - Final Project
 #### USC-Id: 5483611649
 ##### Github username: ambirlanga
 
