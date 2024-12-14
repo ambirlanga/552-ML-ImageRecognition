@@ -6,6 +6,8 @@ In this repository you will find the results of dsci552 project, more specifical
 
 Make sure the 'notebook' and 'data' folders are located in the same repository while execting the Jupyter Notebook; this is needed for the notebook to access the dataset.
 
+The notebook was originaly executed on Kaggle, but for easier replication the path for training and test (train_dir and test_dir paths) has been rewriten for local use (First 2 lines of the first section, without counting imports). 
+
 
 ---
 ## Instalation of required libraries
