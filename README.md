@@ -1,8 +1,6 @@
-# Ariel Martinez Birlanga - Final Project
-#### USC-Id: 5483611649
-##### Github username: ambirlanga
+# Ariel Martinez Birlanga - Image Recognition
 
-In this repository you will find the results of dsci552 project, more specifically, all exercise results and step-by-step explanation are found in "notebook/martinez-ariel-final-project.ipynb".
+Developed a machine learning model to classify environment images (urban, forest, desert, etc.) from extracted numerical features. Built an XGBoost-based pipeline for feature extraction, training, and performance evaluation.
 
 Make sure the 'notebook' and 'data' folders are located in the same repository while execting the Jupyter Notebook; this is needed for the notebook to access the dataset.
 
